@@ -37,7 +37,7 @@ While my professional projects are under NDA, here are some examples of my codin
 
 1. **API Template**: A lightweight and scalable REST API server built with GoLang and Docker.
     
-    - Repository Link (Coming Soon!)
+    - [Repository Link](https://github.com/justyork/template-api)
         
 2. **Mini Game Prototype**: A simple 2D puzzle game built with Unity.
     
