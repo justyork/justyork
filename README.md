@@ -35,9 +35,33 @@ I'm **Iurii Shpynev**, a skilled **Team Lead and Full-stack Developer** with ove
 
 While my professional projects are under NDA, here are some examples of my coding expertise:
 
-1. **API Template**: A lightweight and scalable REST API server built with GoLang and Docker.
-    
-    - [Repository Link](https://github.com/justyork/template-api)
+1. **API Template**: A robust and scalable REST API server template built with GoLang, designed to streamline the development of high-performance web services.
+
+   - [Repository Link](https://github.com/justyork/template-api)
+
+   **Features**:
+   - **Modular Architecture**: Organized code structure promoting maintainability and scalability.
+   - **JWT Authentication**: Secure endpoints with JSON Web Tokens for authenticated access.
+   - **Database Integration**: Seamless connection with databases, including migration support.
+   - **Docker Support**: Pre-configured Docker setup for consistent development and deployment environments.
+   - **Swagger Documentation**: Integrated API documentation for easy reference and testing.
+   - **CI/CD Pipeline**: Automated workflows using GitHub Actions for testing and deployment.
+
+2. **PHP Laravel Feature Tests**: A collection of feature tests for Laravel applications, demonstrating best practices in testing web application functionalities.
+
+   - [Repository Link](https://github.com/justyork/php-tests-example)
+
+   **Test Scenarios**:
+   - **AB Test Management**:
+     - *CreateABTestTest.php*: Validates the creation of new A/B tests via POST requests, ensuring correct response statuses and data integrity.
+     - *DeleteABTestTest.php*: Ensures proper deletion mechanisms for existing A/B tests, including handling of non-draft and non-existing tests.
+     - *FindABTestByIdTest.php*: Tests retrieval of A/B tests by ID, verifying accurate data is returned.
+     - *GetAllABTestsTest.php*: Assesses the endpoint responsible for fetching all A/B tests, checking for correct data structures and content.
+     - *PublishABTestTest.php*: Validates the publishing process of A/B tests, ensuring state transitions are handled appropriately.
+     - *UpdateABTestTest.php*: Tests the update functionality for existing A/B tests, confirming that modifications are correctly applied and persisted.
+
+   These tests serve as practical examples for implementing comprehensive feature testing in Laravel, aiming to enhance application reliability and performance.
+ 
         
 2. **Mini Game Prototype**: A simple 2D puzzle game built with Unity.
     
