@@ -76,14 +76,9 @@ While my professional projects are under NDA, here are some examples of my codin
 
 ## 🌍 Connect With Me
 
-- 🖇️ [LinkedIn](https://linkedin.com/in/shpynev)
-    
 - 💻 [Portfolio](https://github.com/JustYork)
 
-- 🖇️ [GitLab](https://gitlab.com/JustYork)
-    
-- 📫 Email: yorkshp@gmail.com
-
+- 📫 Email: just.york.cy@gmail.com
     
 ---
 
